@@ -1,3 +1,5 @@
+![Logo IntuYT](https://intu.yt/assets/intuyt.svg)
+
 # The `intuyt` Model Family by LLM-MX
 
 The **intuyt** family represents a sovereign, highly efficient suite of Large Language Models developed under the **LLM-MX** initiative. Engineered to deeply understand Mexican Spanish and optimized for GreenAGI principles, the models span from ultra-efficient edge computing prototypes to robust reasoning engines.
